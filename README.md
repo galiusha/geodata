@@ -20,4 +20,4 @@ Workshop Data:
 
 1.  N03-23_13_230101.geojson - Administrative Boundaries (Tokyo) from National Land Numerical Information Download Site
 2.  churinjou.csv - Bicycle Parking Locations from Tokyo Metropolitan Government Open Data Catalog Website
-3.  bus_routes.geojson - Bus Routes from National Land Numerical Information Download Site
+3.  bus_routes.geojson - Bus Routes from National Land Numerical Information Download Site (note: due to size constraints on GitHub, the file contains only the bus routes for Tokyo, whereas the file used for the workshop contained data for all of Japan)
