@@ -11,9 +11,13 @@ Agenda
 
 Data sources:
 National Land Numerical Information Download Site -  https://nlftp.mlit.go.jp/
-Tokyo Metropolitan Government Open Data Catalog Website -  https://portal.data.metro.tokyo.lg.jp/ 
+Tokyo Metropolitan Government Open Data Catalog Website -  https://portal.data.metro.tokyo.lg.jp
 Portal Site of Official Statistics of Japan - https://www.e-stat.go.jp/en
 
 Python libraries: Pandas, Geopandas, Shapely, Matplotlib
 
+Workshop Data: 
 
+1.  N03-23_13_230101.geojson - Administrative Boundaries (Tokyo) from National Land Numerical Information Download Site
+2.  churinjou.csv - Bicycle Parking Locations from Tokyo Metropolitan Government Open Data Catalog Website
+3.  bus_routes.geojson - Bus Routes from National Land Numerical Information Download Site
